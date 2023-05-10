@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "simple-task-tracker",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
