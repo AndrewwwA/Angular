@@ -10,4 +10,8 @@ import { faTimes } from '@fortawesome/free-solid-svg-icons';
 export class TaskItemComponent {
   faTimes = faTimes;
   @Input() 'task': Task;
+
+  deleteClick() {
+    console.log('deleteClick');
+  }
 }
