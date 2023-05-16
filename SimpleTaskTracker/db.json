@@ -17,6 +17,12 @@
       "text": "Shopping with kid",
       "day": "Januarary 12th at 4:00 PM",
       "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Test",
+      "day": "Januarary 12th at 4:00 PM",
+      "reminder": false
     }
   ]
 }
